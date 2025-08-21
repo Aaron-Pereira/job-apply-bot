@@ -1,0 +1,787 @@
+Timestamp,Link,Company,Title,Description,Manual Rank
+2025-08-20 12:23:31,https://www.seek.com.au/job/86343020?ref=recom-homepage&pos=1&sp=3#sol=6033a9ab19adc233caef7a977b1289b92c81cf07,iProperty Express Pty Ltd,Full Stack Developer,"About Us:
+We are a rapidly expanding tech company revolutionizing the real estate industry with innovative and cutting-edge solutions. With a growing presence in both Australia and the US, we are on the lookout for passionate developers who are eager to make an impact. Join our team of talented professionals where continuous learning and product innovation are part of our DNA.
+What You’ll Do:
+Collaborate with cross-functional teams to design, develop, and deploy fullstack web applications.
+Contribute to product innovation by leveraging bleeding-edge technologies.
+Write clean, efficient, and maintainable code in C#/.NET and modern frontend frameworks.
+Build scalable backend systems using ASP.NET and SQL Server.
+Ensure code quality through unit testing and best development practices.
+Participate in code reviews, technical discussions, and contribute to a positive team culture.
+What We’re Looking For:
+Solid experience in HTML, JavaScript/TypeScript.
+Proficiency in a modern frontend framework (preferably Angular or React).
+Strong backend development skills in C#/.NET and ASP.NET.
+Hands-on experience with SQL Server.
+Familiarity with unit testing frameworks and best practices.
+A genuine passion for technology and continuous learning.
+Excellent reasoning skills and curiosity about how things work.
+Great Bonus Points If You Have:
+Experience in ML/AI, especially in object detection and classification.
+Basic understanding of neural networks.
+Ability to train machine learning models to solve real-world problems.
+UI Test Automation experience with Playwright or Selenium.
+Knowledge of 3D technologies such as Three.js, Babylon.js, or Unity.
+Experience with cloud services like AWS or Azure.
+Familiarity with other SQL databases (Postgres, SQLite, etc.).
+Side projects hosted on GitHub showcasing your technical abilities.
+What We Offer:
+Competitive remuneration: $100,000 - $150,000 + Super.
+Flexible working arrangements.
+Opportunities for professional growth and development.
+Work in a collaborative, innovative, and inclusive environment.
+How to Apply:
+If you are passionate about building impactful solutions and want to work with a team of talented developers in a fast-growing company, we want to hear from you!
+Apply via Seek please.
+Join us and be part of shaping the future of real estate technology!",4
+2025-08-20 12:23:38,https://www.seek.com.au/job/86473765?ref=recom-homepage&pos=2&sp=3#sol=b83cd5e188e35de3641aad7e345cc424e5ec6fa5,Independent Schools Victoria,Full Stack Developer,"Full Stack Developer
+Melbourne CBD | 6 Month Contract from September 2025 | Full-Time
+We are seeking a passionate and versatile Full Stack Developer to immediately join our team and play a pivotal role in enhancing Independent Schools Victoria’s internal software development capabilities. This is an exciting opportunity to contribute to the evolution of our digital platforms and products, supporting the isEducation strategy through innovative and reliable technology solutions. As a key member of the Digital, Data and Technology Team, the Full Stack Developer will collaborate across the organisation to deliver impactful digital experiences, leveraging Microsoft technologies including Dynamics 365 and the Power Platform. The role demands strong technical expertise, a proactive mindset, and a commitment to fostering effective partnerships that drive strategic outcomes.
+Major Responsibilities
+As a key member of the Development Team, you will collaborate closely with colleagues to deliver high-quality digital solutions, fostering a culture of innovation, continuous improvement, and shared success. You will lead and support projects that enhance the functionality and performance of existing software and web platforms, particularly ISV’s isEducation platform, by gathering requirements, designing solutions, and implementing enhancements. Your role includes designing, developing, and deploying cloud-based applications using Microsoft Azure and .NET technologies, applying best practices in cloud architecture, DevOps, CI/CD, and version control with Git.
+The Software Development Stack includes Angular 18+ & .NET 8.
+You will also develop and maintain CRM solutions using Microsoft Dynamics 365, configuring and customising the platform to meet evolving business needs and leveraging the Power Platform to enhance automation, data accessibility, and user experience. Additionally, you will design and implement RESTful APIs and services to support reliable data exchange and platform integration, using service-oriented and microservices architecture where appropriate. Providing ongoing technical support and maintenance for digital products and platforms, including CRM systems, is essential to ensure security, reliability, and user satisfaction.
+Finally, you will contribute to the design and development of new digital products and services aligned with the strategic goals of isEducation, identifying opportunities for innovation and applying modern development practices.
+What We Offer:
+A supportive and values-driven team environment.
+Flexible working arrangements, including hybrid working.
+Opportunities to contribute to meaningful work in the education sector",6
+2025-08-20 12:23:44,https://www.seek.com.au/job/86566579?ref=recom-homepage&pos=3&sp=3#sol=7ee98112c208ebecf8077bbc9865c476db0f62b7,SEEK Limited,Software Engineer (AIPS),"Company Description
+About SEEK
+SEEK’s portfolio of diverse businesses make a positive impact on a truly global scale. Our purpose is to help people live more fulfilling and productive working lives and help organisations succeed. We create world-class technology solutions to connect more people to relevant employment, education, small business and volunteer opportunities. We have a culture of high-performance in our workplaces and celebrate the diversity of our employees who contribute to the success of our organisation.
+Life at SEEK
+SEEK’s purpose is at the centre of everything we do.
+Our SEEK
+, which defines the way we work, is all about what makes us unique and a little bit different. Passion, Team, Delivery and Future are our principles that drive innovation and creativity. SEEK strives to support employee wellbeing by providing an amazing experience at work which led us to being named AFR BOSS Top 10 Best Places to Work in Technology (
+2021-2024
+). We are proud to work in an environment that's inclusive where everyone's unique ideas, experiences and perspectives are valued.
+Our award-winning head office in Cremorne (just a 4 min walk from Richmond station) provides an exceptional space to collaborate with colleagues. The building provides sweeping views of the city, a games area, sit and stand desks at every workstation, modern end-of-trip facilities and Thursday night drinks which gives our people an opportunity to connect in a social setting.
+Job Description
+About the role
+We are looking for a motivated Software Engineer to join the Candidate Quality (CQ) squad – which is a part of the broader Artificial Intelligence Platform Services (AIPS) department - to help with some of the most interesting and challenging problems SEEK faces. CQ is a large squad made up of data scientists, engineers, and product managers, tasked with identifying the best candidates and applicants for jobs posted on Seek. Engineers in this team are responsible for delivering Data Engineering solutions and deploying Machine Learning models (developed by our Data Science team) and maintaining security and monitoring performance of our services.
+Responsibilities
+Collaborate with cross-functional teams and stakeholders to design and build scalable, robust systems.
+Solve challenging problems in data and cloud engineering, ML ops, and beyond.
+Navigate and adapt to rapidly changing requirements and evolving designs.
+Apply engineering best practices to write clean, maintainable, and testable code.
+Take full ownership of your work, from initial concept to deployment, while demonstrating autonomy and initiative.
+Qualifications
+Skills and experience
+Strong technical and problem-solving skills.
+Excellent communication and interpersonal abilities.
+A curious mind with a passion for cloud, data, and/or machine learning.
+Self-motivated with a sense of ownership and responsibility.
+A team player who enjoys learning and collaborating with others.
+Our Tech Stack (Experience with any of the following is a plus):
+Languages: Python, Java, Scala, SQL
+Cloud: AWS (EC2, Lambda, SQS, SNS, Athena, CloudFormation)
+Data & ML: Spark, Databricks
+DevOps: CI/CD, Infrastructure as Code, and automation tools
+We're seeking an exceptional engineer to join our team. While experience with our specific tech stack is a plus, it's not a requirement — we're open to candidates with a solid foundation in software engineering and a strong willingness to learn. A genuine interest in data engineering and/or ML ops is essential.
+Additional Information
+At SEEK we offer:
+Annual Performance Bonus Plan
+Support of flexible working, including a mix of office and work from home days depending on your role.
+Paid and unpaid leave benefits including Personal Flexi Days and Volunteer Days, as well as the opportunity to purchase additional leave
+Support for parents with 14 weeks paid primary carers leave and 2 weeks paid leave for partners
+SEEK is committed to operating sustainably, certified carbon neutral for its business operations (through Climate Active), purchasing renewable energy for our office and working-from-home emissions and a target for net zero by 2030.
+The opportunity to work from anywhere for up to 4 weeks per financial year
+At SEEK, we are passionate about fostering a culture of inclusion and wellbeing that embraces and values the diversity of our people. We are a purpose driven business that works with heart.
+We know teams with diverse ideas, experiences and perspectives are more creative and are critical to ensuring effective delivery and innovating to enable our future success. As such, we welcome applications from people with diverse backgrounds and life experiences, especially as they relate to gender, sexual identity, culture, faith, disability and life stages. If you have the skills, curiosity and an adaptable mindset but don't meet every responsibility or qualification listed in this advertisement, please still get in touch with us.
+Should you require any specific support or adjustments throughout the recruitment process and beyond, please advise us and we will be happy to assist.
+For this role, only those candidates with the eligible right to work will be considered.
+SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees.",8
+2025-08-20 12:23:50,https://www.seek.com.au/job/86390078?ref=recom-homepage&pos=4&sp=3#sol=dbcf678d1f58f567a988193aaa056a2e4fb78921,Workbench International Pty Ltd,"Full Stack & Mobile Developer – Vue.js, Flutter, Angular & .NET","Full Stack & Mobile Developer
+Vue.js • Flutter • Angular • .NET
+📍 Melbourne | Full-Time | Hybrid Flexible
+Join Us in Building Software That Matters
+At Workbench, we build world-class SaaS solutions that help project managers, engineers, construction teams, field service professionals and back-office staff to simplify complex project delivery. With over 25 years of proven success across New Zealand and Australia, we’re modernising how the built world works—one line of clean, scalable code at a time.
+We're growing our team and are looking for a passionate Full Stack & Mobile Developer who thrives on challenge, values craftsmanship, and wants their work to have real-world impact.
+What You’ll Be Doing
+You’ll join a tight-knit development team working across the full development lifecycle—from architecting new features to modernising legacy code. You'll touch frontend, backend, APIs, databases, and mobile apps, building tools used daily by construction companies across Australasia.
+- Design, build, and maintain full-stack features across web and mobile platforms
+- Develop mobile apps using Flutter and Upvise (JavaScript)
+- Work on modernising UIs with Vue.js, and Angular 2+
+- Contribute to backend development from .NET Framework to .NET 9, and AngularJS, to Angular18
+- Integrate via APIs with external systems like Xero, Acumatica, and Sage
+- Collaborate in an Agile/Scrum environment across DevOps, QA, and Product
+- Write clean, testable code with scalable design patterns
+- Take ownership of features end-to-end
+Our Tech Stack
+Frontend: Vue.js, AngularJS, Angular 2+, Bootstrap, Tailwind CSS, TypeScript, HTML5
+Mobile: Flutter (Dart), Upvise Mobile Platform (JavaScript)
+Backend: ASP.NET MVC/Web API, .NET Core / .NET 9, C#, Entity Framework/Core
+Databases: SQL Server, Postgres
+Tooling: Git, REST APIs, CI/CD pipelines, Agile (Scrum)
+What We’re Looking For
+- 4+ years of experience in full-stack development in SaaS or enterprise environments
+- Strong knowledge of .NET (Core, MVC, Web API) and C#
+- Solid frontend skills in Vue.js, Angular (2+), AngularJS, JavaScript, TypeScript, and responsive design
+- Experience with Flutter and/or other hybrid mobile frameworks
+- Familiarity with RESTful APIs, scalable backend design, and cloud-ready code
+- A team player with a product mindset and a love for clean, testable code
+- Tertiary qualification in Computer Science/Engineering or equivalent experience
+Bonus Points For
+- Experience modernising legacy systems (AngularJS/.NET Framework)
+- Familiarity with ERP/accounting integrations (Xero, Acumatica, MYOB)
+- Exposure to CI/CD pipelines, automated testing and cloud deployment
+- Custom UI component development
+Why You’ll Love Working at Workbench
+💥 Make a Real Impact
+Work on tech that’s reshaping how infrastructure and service businesses operate in the real world.
+🛠 Modern Tech & Autonomy
+Use modern tools and frameworks. Own your features from design through deployment.
+👥 Supportive Culture
+Agile environment, no ego. We focus on growth, learning, and shipping great software.
+📈 Grow With Us
+We’re scaling—and you’ll grow as we do. Expand your skills, shape the product, influence direction.
+🌍 Flexible, Hybrid Work
+Enjoy the balance of in-person collaboration from our new, modern Melbourne office and remote flexibility.
+Ready to do your best work?
+Be part of a trusted, growing company that values its developers as much as its clients. If you’re looking for purpose, ownership, and a technically exciting challenge, we’d love to hear from you.
+Apply now and help us shape the future of project delivery.",4
+2025-08-20 12:23:57,https://www.seek.com.au/job/86022416?ref=recom-homepage&pos=6&sp=3#sol=6c457d7c1ce076040dcc4bc7f640a70714f7fbd2,MoreDent,Junior Software Developer,"Position Overview
+We are seeking a talented Software Developer to join our tech team. The successful candidate will be responsible for developing critical server infrastructure to integrate with multiple external APIs for data retrieval and building a website to replace our existing e-commerce platform. This role offers an excellent opportunity to work with modern web technologies while gaining experience in full-stack development. This is a Melbourne-based position in our office on St Kilda Road.
+Key Responsibilities
+Design and develop a robust server application to connect with multiple external APIs
+Build APIs to serve data to a series of web and desktop-based applications
+Develop a website to replace our existing Shopify-based platform
+Integrate payment systems and implement SEO best practices
+Maintain and optimize server performance and reliability
+Essential Requirements
+Technical Skills
+Computer Science Fundamentals
+: Strong understanding of data structures, algorithms, and complexity analysis
+Backend Development
+: Strong proficiency in at least one server-side language (Node.js, Python, Java, C#, or Go)
+API Development
+: Experience building RESTful APIs and working with external API integrations
+API Documentation
+: Proficiency in documenting APIs using tools like Swagger/OpenAPI, Postman, or similar
+Database Management
+: Knowledge of both relational (PostgreSQL, MySQL) and NoSQL (MongoDB, Redis) databases, including query optimization
+Web Technologies
+: Solid understanding of HTTP protocols, JSON, XML, and web services
+Frontend Development
+: Proficiency in HTML5, CSS3, JavaScript, and at least one modern framework (React, Vue.js, or Angular)
+App Development
+: Experience with mobile or desktop application development (React Native, Flutter, Electron, or native platforms)
+Payment Systems
+: Experience with payment gateway integration (Stripe, PayPal, or similar)
+PowerApps
+: Knowledge of Microsoft PowerApps development and low-code/no-code solutions
+Version Control
+: Experience with Git and collaborative development workflows
+Educational Background
+Bachelor's degree in Computer Science, Software Engineering, Information Technology, or related field
+Desirable Qualifications
+Experience with cloud platforms (AWS, Azure, Google Cloud)
+Knowledge of containerization technologies (Docker, Kubernetes)
+Familiarity with CI/CD pipelines and DevOps practices
+Experience with e-commerce platforms and payment processing systems
+Understanding of search engine optimization principles, meta tags, structured data, and performance optimization
+Advanced SEO knowledge including technical SEO and analytics tools
+Microsoft Power Platform experience (PowerApps, Power Automate, Power BI)
+Experience with Content Management Systems (CMS)
+Understanding of web security principles, authentication, and authorization methods
+Understanding of data encryption and secure transmission protocols
+Previous internship or project experience in web development or e-commerce
+Soft Skills
+Strong analytical and problem-solving abilities
+Excellent communication skills for technical documentation and team collaboration
+Attention to detail, particularly important when handling sensitive data
+Ability to work independently and manage multiple projects simultaneously
+Eagerness to learn and adapt to new technologies
+What We Offer
+Competitive salary package
+Professional development opportunities
+Opportunity to work with modern technologies and modern web development stacks
+Visa Requirements
+Full working rights in Australia (Australian citizenship, permanent residency etc)
+Application Requirements
+Please submit:
+Current CV/Resume
+Cover letter highlighting relevant experience and interest in web development and API integration
+Portfolio or GitHub repository showcasing relevant projects
+Academic transcripts
+This is an excellent opportunity for a candidate to launch their career in software development while working on mission-critical systems that directly impact business operations and user experience.",8
+2025-08-20 12:24:03,https://www.seek.com.au/job/86499493?ref=recom-homepage&pos=7&sp=3#sol=846ac8240cb5494e66f1731f85488d44bae699d5,Dynamo Recruitment,Full Stack .NET Developer (Angular WebAPI .NET Core Azure),"Our client,
+a reputable Software Development House in the healthcare domain, is seeking a Senior Full Stack .Net Development Consultant, to join their growing team in a Permanent role.
+***Must Be Australian Citizen***
+This is a permanent role working on an exciting saving lives projects.
+Melbourne candidates preferred
+but can be a remote role within Australia (Melbourne, Sydney, Adelaide, Perth, Tasmania, Darwin) or NZ.
+Summary:
+We are looking for talented individual with strong end-to-end development experience in high paced projects in an enterprise environment. Candidates will have the ability to adjust rapidly to a dynamic setting, be able to deliver high quality customer facing applications and hit the ground running.
+Skills Required:
+Full-stack development using
+React , Angular 6+, C#, Dot Net, SQL, Azure, VSTS/TFS, Visual Studio
+Understanding of Object-Oriented Design and Object-Oriented Programming Concepts
+Knowledge and familiarity with Design Patterns and Principles
+Strong experience in software development
+Relevant tertiary qualifications or demonstrated capability through past employment experience
+Excellent communication skills
+Knowledge in TDD, BDD, CI/CD
+Retail POS/Healthcare industry experience
+Experience in performance or load testing, integration testing
+IT Certifications
+In addition for this exciting project:
+Required
+: C#, .Net Core, Web API, WCF, JavaScript, jQuery,
+Angular 6+,
+CSS/CSS3, Bootstrap, HTML/HTML5,
+MVC, DevExpress, Telerik, LESS/SASS, GIT, unit testing, Azure technology such as Azure Search, webapps,
+webjobs, service bus, blob storage, Event Hub, Azure SQL, Azure Functions, CI/CD using Azure Devops.
+Desirable
+: CosmosDB, SignalR, Powershell, FHIR, Vonk, Playwright, designing and developing secure API, front-end unit testing, mocking framework
+Other Requirements
+Federal Police Check (as and when required)
+Baseline Security Clearance (as and when required)
+APPLY FOR FULL PD",3
+2025-08-20 12:24:09,https://www.seek.com.au/job/86152131?ref=recom-homepage&pos=8&sp=3#sol=4ebc9a05e3b9bebc61eaa05a9dfe52cfdc8141f2,Leidos Australia Pty Ltd,Software Engineers/Developers TSPV,"Description
+Software Engineers/Developers TSPV
+Accrue up to an extra 12 days of leave per year through our Life Days program.?
+Work with world leading technology business at the forefront of innovation.
+We're a 'Family Friendly' certified workplace - we understand the often many and varied roles our team members need to play within their own unique family setting and actively support them.
+Our team feel Leidos is a great place to work. Learn more about our culture and benefits by visiting us here https://www.leidos.com/company/global/australia/careers
+Do Work That Matters
+Leidos Australia delivers IT and airborne solutions that protect and advance the Australian way of life.  Our 2000 local experts, backed by our global experience and network of partners, are working to solve the world's toughest challenges in government, intelligence, defence, aviation, border protection and health markets.
+Your New Role and Responsibilities
+We are seeking Software Engineers and Developers to join the Intelligence support team. We support the Australian Government's classified programs with modern IT systems, including mission-critical classified systems that cover a wide breadth of software engineering disciplines.
+Collaborate and innovate with our talented cross-functional and cross-domain teams, developing and supporting compelling software solutions, constantly refining our approach and methods
+Design innovative software solutions to complex problems
+Participate in/lead agile story mapping and estimation
+Integrate and deploy complex systems using SecDevOps practices
+Undertake web focused User Interface development and User Experience evolution
+Research, prototype, investigate and develop technologies and systems
+Have the opportunity to lead or contribute to customer demonstrations, engagement and innovation activities and initiatives and business development responses
+What You'll Bring to Make An Impact
+A Bachelor's Degree in Software Engineering, Computer Science, or Electrical Engineering (with software engineering experience)
+Integration with external systems/applications (REST API, integration protocols, JSON/XML)
+Integration and customization of open source technologies (NiFi, Kafka, Elastic (ELK) Stack, Solr)
+CI/CD tools and technologies and infrastructure as code (Ansible, Jenkins, git)
+Java and related open-source frameworks
+Containerization using Docker, Kubernetes
+JIRA and Confluence
+Don't worry if you don't tick all the boxes - if you meet most of them, we encourage you to submit your application.  We're most interested in your strengths, what you want to learn and how far you want to go.
+This role does requires the successful applicant to be an Australian Citizen and hold an active TSPV Clearance.
+Diverse Team Members, Shared Values and a Common Purpose
+Providing our customers with smarter solutions takes an incredible team with diversity of thought, experience and perspectives driving innovation. Inclusion is at the heart of our culture and is one of our core values. It's about creating a workplace where everyone can do important work, feels welcome, valued, and respected, and has equal access to opportunities to thrive. Paul Chase - Chief Executive, Leidos Australia.
+Leidos Australia is an equal opportunities organisation and is committed to creating a truly inclusive workplace. We welcome and encourage applications from Aboriginal and Torres Strait Islanders, culturally and linguistically diverse people, people with disabilities, veterans, neurodiverse people, and people of all genders, sexualities, and age groups.
+Our five Advocacy Groups (Women and Allies Network,?Young Professionals, Defence & Emergency Services, Action for Accessibility and Abilities and Pride+) provide an opportunity for team members to connect and collaborate on shared interests, and work to support and celebrate our diverse community.
+Next Steps
+To apply for this role, follow the links or apply via our Careers page.
+Recruitment process - 1 virtual interview or 1 face to face, a psychometric test & background checks.
+Applicants may also need to meet International Traffic in Arms Regulations (ITAR) requirements. In certain circumstances this can place limitations on persons who hold dual nationality, permanent residency or are former nationals of certain countries as per ITAR 126.1.
+We are committed to making our recruitment process accessible to all candidates. Please contact our Careers team
+careers.au@au.leidos.com
+if you'd like to discuss any additional support during your application or throughout the recruitment process.
+Original Posting:
+For U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.
+Pay Range:
+The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.",5
+2025-08-20 12:24:15,https://www.seek.com.au/job/86499067?ref=recom-homepage&pos=9&sp=3#sol=8fb85aa90a3000e95d3e21c49040def2664d8749,Crusader Caravans,SOFTWARE PROGRAMMER,"The Company
+Crusader Caravans is an Australian owned manufacturing business that has built an outstanding reputation for high quality products and customer service excellence across its loyal and expanding customer base. The company is experiencing significant growth and is well positioned to capture future market share and build on its current success.
+The Role
+Reporting directly to the Engineering Manager, the Software Programmer is a key role and is responsible for developing automation for continuous improvement and integrating machine learning and AI into different parts of the business.
+High impact role
+Key member of the operations leadership team
+Other areas of responsibility include but are not limited to:
+Build API’s to serve data to a series of web and desktop-based applications
+Develop and maintain ordering system
+Develop and maintain websites
+Automate tasks using power apps
+Create and maintain automation for repeatable actions for CAD and CNC software
+Create VB scripts for SolidWorks and Excel
+Explore and integrate machine learning and AI into different parts of the business
+Technical Skills
+Computer science fundamentals:
+Strong understanding of data structures, algorithms, and complexity analysis
+Backend development:
+Proficiency in Python, Java and C+
+API development:
+Knowledge of both relational (PostgreSQL, MySQL) and NoSQL (MongoDB, Redis) databases
+Web Technologies:
+Solid understanding of HTTP protocols, JSON, XML, and web services
+Frontend development:
+Proficiency in HTML5, CSS3, JavaScript, and modern frameworks like React, Vue.js or Angular
+App Development:
+Experience with mobile or desktop application development (React Native, Flutter, Electron Or native platforms)
+PowerApps:
+Knowledge of Microsoft PowerApps development and low code /no code solutions
+Educational Background
+Bachelor’s degree in computer science, software engineering, information technology, or related field
+Desirable Qualifications
+Experience with cloud platforms
+Understanding and familiarity with ML and AI integration
+Familiarity with databases, data structures, and integration patterns
+Microsoft Power Platform experience (PowerApps, Power Automate, Power BI)
+Understanding of web security principles, authentication, and authorization methods
+Understanding of data encryption and secure transmission protocols
+Soft Skills
+Attention to detail, particularly important when handling sensitive data
+Ability to work independently
+Manage multiple projects simultaneously
+Eagerness to learn and adapt to new technologies like ML and AI
+Only candidates that have the required background will be contacted.
+For a confidential discussion, please contact Anna Valentini at Crusader Caravans by email at
+hr@crusadercaravans.com.au
+.",7
+2025-08-20 12:24:22,https://www.seek.com.au/job/86554889?ref=recom-homepage&pos=10&sp=3#sol=b8be6b593e8518959578a39a37d403f4f4d52b3f,Adelaide Mason,Lead Developer,"AWESOME OPPORTUNITY!!
+I'm on the hunt for a Lead Developer who's looking to combine their hands-on technical excellence with team leadership in my client's fast-paced, AI forward team.
+You will guide the development team through complex technical challenges while remaining deeply involved in coding, problem-solving and architectural decisions. The role requires someone who can balance independent technical work with mentoring responsibilities and project oversight.
+It's a small team with a mature tech stack. They use AI to solve problems faster and rely on technical experience to maintain quality control. This role requires you to be currently using AI coding assistants in day-to-day development.
+Must have
+Demonstrated experience with Wordpress, Xenforo, Pocketable, Cloudflare proxies, React Router, Concierge platforms, Google Cloud VPS and Cloud Run, GA4, Big Query, and Metabase for analytics.
+Bachelor's degree in Computer Science, Software Engineering or equivalent practical experience
+Must have unrestricted work rights in Australia
+A passion for travel is desirable, as is familiarity with frequent flyer programs (though not essential)
+Are passionate and hungry to succeed in a changing digital world",5
+2025-08-20 12:24:28,https://www.seek.com.au/job/85943728?ref=recom-homepage&pos=11&sp=3#sol=2736ca569584a4d0f3ae9f501208c1bb61bb9c72,TN Group,Software Developer,"Position Overview
+We are seeking a talented and motivated Software Developer to join our team. In this role, you will play a key part in building and maintaining web-based applications that support our operational processes. This position offers an exciting opportunity to contribute to a growing organization that makes a real difference in the lives of international students.
+What You'll Do
+• Design, develop, and maintain a web-based system for managingclient cases, visa statuses, university applications, and payment tracking.
+• Collaborate with stakeholders to understand requirements and implement user-friendly solutions that meet business needs.
+• Build a secure, scalable, and intuitive client managementplatform for our users.
+• Write clean, efficient, and maintainable code while adhering to best practices.
+• Conduct testing, debugging, and optimization to ensure system reliability.
+• Create and maintain technical documentation for seamless system operation and future development.
+What We're Looking For
+•
+Technical Skills:
+o Strong proficiency in PHP and related frameworks (e.g., Laravel, Symfony).
+o Experience with front-end technologies such as HTML, CSS, JavaScript, and frameworks like React or Angular is a plus.
+o Familiarity with databases (e.g., MySQL, PostgreSQL) and writing optimized SQL queries.
+o Experience working with APIs and third-party integrations.
+o Knowledge of cybersecurity best practices.
+•
+Qualifications:
+o Bachelor’s degree in Computer Science, Software Engineering, or a related field.
+o 2 or more years of experience in developing and deploying web-based applications.
+o Strong problem-solving skills and attention to detail.
+o Ability to work independently and collaboratively in a team environment.
+•
+Bonus Skills:
+o Knowledge of payment gateways and financial tracking systems.
+o Background in developing solutions for migration or education-related businesses is an advantage.
+What We Offer
+• Salary ($75,000–$85,000 per annum, depending on experience) and benefits package.
+• Opportunity to work on meaningful projects impacting international education.
+• A collaborative and supportive team environment.
+• Professional development and learning opportunities.
+• Hybrid working arrangements to support work-life balance.
+About MelLink
+MelLink is a trusted education and migration consultation firm dedicated to empowering international students to achieve their goal of studying in Australia while showcasing the excellence of Australia’s education system to a global audience. We provide a range of personalized services, including educational counseling, migration assistance, and expert advice on course selection, education providers, and visa applications. At MelLink, we take pride in delivering high-quality, student-centered solutions, fostering success and well-being, and upholding the integrity of Australia’s international education sector.",6
+2025-08-20 12:24:34,https://www.seek.com.au/job/86375289?ref=recom-homepage&pos=12&sp=3#sol=1fe98e1f3e073aaedbbdc816241a30b9d0a91666,SEEK Limited,Graduate Software Engineer,"Company Description
+About SEEK
+SEEK’s portfolio of diverse businesses make a positive impact on a truly global scale. Our purpose is to help people live more fulfilling and productive working lives and help organisations succeed. We create world-class technology solutions to connect more people to relevant employment, education, small business and volunteer opportunities. We have a culture of high-performance in our workplaces and celebrate the diversity of our employees who contribute to the success of our organisation.
+Life at SEEK
+SEEK’s purpose is at the centre of everything we do.
+Our SEEK
+, which defines the way we work, is all about what makes us unique and a little bit different. Passion, Team, Delivery and Future are our principles that drive innovation and creativity. SEEK strives to support employee wellbeing by providing an amazing experience at work which led us to being named AFR BOSS Top 10 Best Places to Work in Technology (
+2021-2024
+). We are proud to work in an environment that's inclusive where everyone's unique ideas, experiences and perspectives are valued.
+Our award-winning head office in Cremorne (just a 4 min walk from Richmond station) provides an exceptional space to collaborate with colleagues. The building provides sweeping views of the city, a games area, sit and stand desks at every workstation, modern end-of-trip facilities and Thursday night drinks which gives our people an opportunity to connect in a social setting.
+Job Description
+About our Engineering Teams
+Our people are the foundation of every product we build. You will have the opportunity to work alongside passionate software engineers who will respect and value your opinion, encourage you to step outside your comfort zone, challenge the status quo and deliver exceptional experiences for our users. We work on a ‘you build it, you run it’ culture and our established platform, tech stack and code base with minimal tech-debt means you can focus on trying new things.
+Job Description
+Our Software Engineering Graduate Program is designed to launch your technology career path. The 13-month program offers an exceptional foundation whilst gaining exposure to various technologies: AWS, GraphQL, React, TypeScript to name just a few. You will rapidly grow professionally, and immediately experience the impact your work makes on fellow SEEKers and our customers.
+When you start, you will:
+Be setup for success with our Accelerator Program
+Explore two 6 month rotations where you will be embedded into teams of your choice, such as Security, Architecture, Mobile Apps or our internal start-ups
+Learn from the best with one Supervisor for the duration of each rotation who will ensure that you're on track with your career aspirations as well as being paired with a Buddy throughout the rotation to support you daily
+Select a Mentor who will guide you on your SEEK path and have a support network of current and previous SEEK grads who’ll share their experiences
+Be based at our brand new, state of the art global HQ here in Melbourne.
+Qualifications
+Who we’re SEEKing
+To be eligible to apply:
+You are in your final year of study or have recently completed an undergraduate or postgraduate degree in any field (preferably Computer Science or Software Engineering); OR
+Have graduated within two years of applying; OR
+Have completed industry training and/or certifications with no more than 18 months of discipline-related experience
+Meet one of the below working rights
+You are an Australian citizen; OR
+Hold an Australian permanent visa; OR
+Hold a Special Category Visa (if a New Zealand citizen living in Australia); OR
+Hold a temporary visa with unrestricted work rights at the commencement of the 2026 intake year for a term of 18 months or more (e.g. Temporary Graduate, secondary 457/TSS, provisional Partner visa)
+Please note applications are open to candidates who are currently on a restricted Student Visa if they will have the correct unrestricted visa that is valid at the commencement of the program
+You are able to relocate to Melbourne (if you're not already here) by February 2026.
+Application closes at 5pm on Friday 29th August, 2025.
+Additional Information
+Perks and benefits
+At SEEK we offer:
+Annual Performance Bonus Plan
+Support of flexible working, including a mix of office and work from home days depending on your role.
+Frequent events including sports days, annual Christmas party, hackathon, and trivia
+Free kick-start breakfast every morning and fresh fruit available all day in our offices
+Casual dress – every day
+At SEEK, we are passionate about fostering a culture of inclusion and wellbeing that embraces and values the diversity of our people. We are a purpose driven business that works with heart.
+We know teams with diverse ideas, experiences and perspectives are more creative and are critical to ensuring effective delivery and innovating to enable our future success. As such, we welcome applications from people with diverse backgrounds and life experiences, especially as they relate to gender, sexual identity, culture, faith, disability and life stages. If you have the skills, curiosity and an adaptable mindset but don't meet every responsibility or qualification listed in this advertisement, please still get in touch with us.
+Should you require any specific support or adjustments throughout the recruitment process and beyond, please advise us and we will be happy to assist.
+For this role, only those candidates with the eligible right to work will be considered.
+SEEK kindly requests no unsolicited resumes or approaches from recruitment agencies and will not be responsible for any associated fees.",2
+2025-08-20 12:24:40,https://www.seek.com.au/job/86566532?ref=recom-homepage&pos=13&sp=3#sol=8e10ea6b3e82aa676dea7b3c41982eaceb01d819,Hark Medical,Software Engineer,"About Hark Medical:
+At Hark Medical, we're revolutionising medication through innovative technology. We believe healthcare should be effortless, freeing caregivers and patients to focus on well-being. We do this by creating smart, consumer electronics making a real health impact.
+We’re a passionate and agile startup fuelled by innovation and backed by a diverse team of hardware wizards, software experts & medical professionals. We tackle big challenges, do things differently, and we’re scaling fast. This is where you come in...
+As we scale our platform, we need a talented and driven Software Engineer to join our software team and make a real impact.
+What You’ll Do:
+Take ownership of our backend code (Typescript, Python, Node.js) and ensure its robustness and scalability.
+Design, develop, and deploy new features for the Hark Medical platform.
+Collaborate with frontend engineers, product managers, and Aron (our Solutions Architect) to deliver seamless user experiences.
+Maintain existing code, troubleshoot issues, and perform necessary refactoring.
+Contribute to the development of a clear testing framework and documentation (we're building it with you, so bring your experience!)
+Lead and mentor junior developers in best practices for software development, code quality, and system architecture.
+Stay up-to-date with the latest industry trends and technologies, with a particular focus on serverless environments in AWS and cloud native coding patterns.
+What You'll Bring:
+5+ years of professional experience in software development, building and maintaining large-scale software products.
+Expertise in backend development using Node.js, Python and TypeScript.
+Proven experience in designing, deploying, and managing solutions using Amazon Web Services (AWS), including core services such as EC2, S3, RDS, and IAM.
+Strong understanding of testing principles and experience implementing testing strategies.
+Familiarity with secure coding practices (e.g., OWASP).
+Experience working in Agile or other iterative development methodologies.
+Excellent communication and collaboration skills.
+Ability to thrive in a fast-paced, startup environment and work independently.
+A proactive mindset and a passion for continuous improvement.
+Bonus Points:
+Previous experience working on serverless, event-driven, or IoT-enabled platforms (e.g., AWS Lambda, API Gateway, DynamoDB, IoT Core), ideally within health tech or other regulated industries.
+AWS certification
+Why You'll Love Working Here:
+Impact:
+Make a real difference in the lives of healthcare professionals and patients.
+Growth:
+Opportunities to learn and grow your skills in a dynamic environment.
+Autonomy:
+We trust you to take ownership and make key decisions.
+Collaboration:
+Work alongside a talented and passionate team.
+Ownership:
+You'll be building this! It’s a chance to own the work, not just write code.
+The First 12 Months - Setting You Up for Success:
+Establish code quality metrics through our testing frameworks and be well documented
+Consistent delivery in every agile sprint cycle
+We will have uplifted our capability, quality, robustness, and security!
+The Systems are up and running, maintained, and scaled.
+You won't need me to hold your hand, you'll have brought new and fresh ideas to the table
+Working well with all teams
+Important details:
+You must possess full, unrestricted working rights for Australia
+We are unable to offer visa sponsorship
+If you're a talented and passionate software engineer who thrives in collaborative environment, a keen to use technology for good, we encourage you to apply!",8
+2025-08-20 12:24:46,https://www.seek.com.au/job/86280526?ref=recom-homepage&pos=14&sp=3#sol=046e93e00704877440f296d03022a6d290f6465b,CardioScan,Senior Full Stack Developer,"About us
+CardioScan is a global health innovation brand and global leader in cardiac monitoring solutions. We provide cardiac data and reporting to primary health practitioners in New Zealand, Australia, the US, the UK and across Asia, through our innovative cloud-based software, Beatbox.
+What we do matters, and we strive to make a positive impact on the heart health of many by focusing on quality, accuracy and speed every time. We want to put the right data in the hands of those who need to make the decision, in a time of need. We are continuing to enhance our clinical team and our business with thought leaders and knowledge specialists that will support our rapid growth.
+About the Role
+At CardioScan, we don’t just write code-we save lives. As a
+Senior Full Stack Developer,
+you’ll play a key role in designing, developing, and delivering cutting-edge software solutions that enable fast, accurate cardiac diagnostics around the world.
+You’ll be part of a growing, agile team that’s shaping the future of healthcare technology using modern frameworks, cloud-native solutions, and a collaborative mindset.
+Key Responsibilities
+Design and develop scalable features across our full stack (.NET Core, Angular, AWS).
+Collaborate with cross-functional teams (Clinical, Sales, Tech, Product, etc.) to solve real-world challenges.
+Optimise performance and scalability through smart architecture and clean coding practices.
+Apply DevOps principles including CI/CD pipelines and automated testing to improve delivery.
+Troubleshoot and resolve performance and functional issues with a proactive mindset.
+Mentor junior developers and contribute to strategic technical decisions.
+Stay ahead of the curve with emerging technologies and bring innovative ideas to the table.
+About you
+You’re a hands-on developer with the curiosity of an innovator and the heart of a collaborator. You’re proactive, adaptable, and eager to contribute to something that makes a genuine difference in people’s lives.
+To thrive in this role, you’ll bring:
+5+ years' experience
+in full stack development
+Expertise in
+.NET Core, C#
+,
+Angular 18+
+,
+MSSQL/MySQL/PostgreSQL
+, Typescript/JavaScript,
+HTML/CSS.
+Strong experience with
+AWS
+, REST APIs, and microservices.
+A solid understanding of modern DevOps tools and practices (CI/CD, automation testing).
+A proven ability to work in agile teams, mentor others, and communicate technical concepts clearly.
+Passion for performance, scalability, and clean code.
+A relevant degree in Computer Science is great to have, but not essential.
+Why work with CardioScan?
+Hearts are at the core of everything we do. Working with us provides an opportunity to be part of a fantastic team, in a supportive working environment, with exposure to exciting emerging technologies and a focus on learning and development. It’s an exciting time to join our business and as it grows, so do the opportunities for personal and professional growth. Our people are our priority, and we strive to create a workplace where people are respected, valued, and rewarded for their contributions.
+CardioScan Benefits
+Development of both your technical and soft skills through training requests and specialised training portals
+Annual performance and salary reviews
+Global EAP (Employee Assistance Program) support and access to health benefits through the program
+Birthday Leave
+Company and team events – we celebrate the wins!
+CardioScan is an equal opportunity employer committed to attracting and retaining diversity in our workforce.",5
+2025-08-20 12:24:52,https://www.seek.com.au/job/86510310?ref=recom-homepage&pos=15&sp=3#sol=2f282ecbcb0f04ec61b297c7f4339eebb5864505,Mars Recruitment,Software Developer,"Intro
+Are you passionate about education and technology? I'm working with a forward-thinking Australian EdTech company looking for a Software Developer to help drive improvements across their Moodle-based LMS and web platforms.
+About the Company
+My client is an Australian-based EdTech company providing expertly designed digital learning content and a modern, scalable LMS. They support a wide range of clients in education and training and are known for their inclusive culture, strong values, and commitment to innovation in online learning.
+About the Role
+As Software Developer, you'll play a key role in developing, maintaining, and enhancing a suite of online learning tools and systems. Working closely with the operations and systems teams, you'll contribute to both front-end and back-end development, support integrations, and troubleshoot across Moodle.
+Key Responsibilities
+Develop and maintain Moodle plugins, themes, and features
+Manage Moodle upgrades, version control, and testing
+Troubleshoot technical issues and support team members across platforms
+Participate in site setups, integrations, and infrastructure improvements
+Build reports and dashboards to support internal and client needs
+Contribute to automation, system documentation, and best practices
+What You'll Need
+Basic knowledge of PHP, object-oriented programming, and RESTful APIs
+Familiarity with HTML, CSS, JavaScript, and SQL
+Must have experience with Moodle - minimum 2 years
+Experience with Git
+Tertiary qualifications or equivalent experience in computer science or software development
+How to Apply
+If this sounds like a fit, I'd love to hear from you. Apply with your CV or reach out directly to
+chisanga.nshindano@marsrecruitment.com.au
+with any questions.
+Please note: Only shortlisted applicants will be contacted. Thanks in advance for your interest!",6
+2025-08-20 12:24:58,https://www.seek.com.au/job/85969787?ref=recom-homepage&pos=16&sp=3#sol=949b8eccf30c2d6f9a8b89cb2a4c1fcc4239d33b,Energetica,Software Engineer,"Great to meet you. We're Energetica, an end-to-end platform for everything to do with enterprise energy and renewables. Buying, selling, analysing, optimising, working towards net zero… you name it. We do it all, and we do it for some of Australia's biggest names, too!
+We're a small (but rapidly growing) team, hyper-focused on building up and scaling our technology both here and globally, and we want smart, focused and hardworking people to join us as we head towards the next stage of our evolution.
+Built and managed here in Australia, we are leading the way in technology for the energy and sustainability sector and looking for like-minded individuals who want to roll their sleeves up and get in at the ground floor of an exciting journey.
+Our engineering smarts are what makes us different, and it's critical that every member of our engineering team not only loves what they do, but are bloody brilliant at it.
+The purpose of this role is to help us keep our platform at the forefront of the market by building enhancements and supporting our clients.
+For this position, we want you to convince us that you'll be fantastic at the following:
+Understanding customer needs and requirements quickly and coming up with clever ways to address them while pushing the system’s overall capabilities forward.
+Building and supporting software with a modern, distributed architecture across multiple customers/tenants.
+Picking up complex new concepts rapidly.
+Testing new stuff that doesn’t yet quite work yet and working with us on improving it.
+Staying positive and productive around stress and tight deadlines which are unavoidable in a rapidly growing company.
+Providing feedback and discussing solutions in a constructive and collaborative way.
+As we're a small startup, you will be open to:
+Getting involved in a little bit of everything: from customer support, to testing the system, and all the way through to energy analysis
+Working hard, but also smart
+Helping us plan and execute our product vision
+Working closely with all levels of the team, from the founder onwards
+You'll need to have at least some of the following experience:
+Real production system development on any stack, ideally using a type-safe language (full disclosure, we mainly use a mix of TypeScript + React on the frontend, and Kotlin/Java on the backend)
+Familiarity with computer science concepts that are relevant to everyday software construction
+… but we don't require you to be:
+An energy expert – (fantastic if you are, but we're also more than happy to train you up!)
+A rocket scientist, or a PhD in quantum physics (but we won't hold it against you)
+We offer the following:
+On-site or remote work anywhere within 3-4 hours of flying time to Melbourne (however, if you’re actually located in Melbourne, this would be ideal as we are now in the office 2-3 days a week)
+The opportunity to work with some smart people and to be part of something very big.
+A great salary appropriate to your experience.
+If this all sounds like something you'd be interested in, tell us why and we'd be very happy to hear from you!",7
+2025-08-20 12:25:04,https://www.seek.com.au/job/86249623?ref=recom-homepage&pos=17&sp=3#sol=f498279ed6f7454072c172569aeb50dc3cee6cc4,AUSTRALIAN FEDERAL POLICE,Software Developers & Data Engineers (Technical Specialist - Bands 1-3),"Did you know?
+The mission of the Australian Federal Police is to provide dynamic and effective law enforcement to the people of Australia. It provides policing throughout Australia in relation to the prevention and detection of crimes against the Commonwealth, its laws and integrity, and community police services to the Community of the ACT.
+Working for the AFP provides you with a diverse and rewarding career. Whether you immerse yourself in a position on the frontline, or provide critical operational or professional support, the work you do makes a big impact on the people of Australia.
+We recognise your contribution to our workforce and offer generous remuneration and conditions including:
+Six weeks (30 days) of paid annual leave per year + additional paid Christmas stand down
+4 extra days of mandatory rest leave per year
+18 days of paid personal leave per year
+Generous superannuation of 15.4%
+18 weeks paid Parental Leave for Primary Caregiver (and 11 weeks for Secondary Caregiver) + additional unpaid leave entitlements for up until 24 months from the child’s date of birth or placement
+Generous salaries and incremental salary progression governed by the AFP Enterprise Agreement
+Flexible and hybrid working arrangement that provides work/life balance
+Health & wellbeing services – with a focus on early intervention, education and prevention
+Access to ongoing training and professional development opportunities
+What is the role?
+Applications are sought from suitably qualified applicants wishing to be considered for the role of Software Developer or Data Engineer.
+Digital Surveillance Collection (DSC) develops and operates a wide range of lawful covert surveillance capabilities in support of the AFP’s operational requirements, including telecommunications interception, surveillance devices, collection under computer access warrant, and collection from open sources.
+Our engineering teams manage the collection, ingestion and AI/ML enrichment of structured and unstructured data from diverse sources into analytics platforms, dashboards, reporting tools and operation systems ensuring end-users have access to timely, accurate and actionable insights in support of AFP investigations and intelligence analysis.
+You will also be required to contribute to the achievement of outcomes in accordance with the regulatory framework, the AFP Code of Conduct and the AFP Governance Instruments. It is expected that the successful applicant will deliver on the core responsibilities and meet any requirements of the position as outlined below.
+For more information about working in Digital Surveillance Collection please visit
+https://dscjobs.afp.gov.au.
+What will you do?
+As a Software Developer or Data Engineer, your responsibilities will include:
+Technical Specialist Level 1:
+Developing and maintaining applications, data pipelines and ETL processes that enable lawful covert surveillance capabilities and operational data processing for AFP operations.
+Collaborating with agile teams to deliver high quality, secure and reliable solutions that meet operation needs while ensuring compliance with applicable legal, regulatory and policy requirements.
+Performing research and development of new platforms, processes and technologies to improve operational efficiency and data delivery.
+Maintaining up to date technical knowledge and promoting continuous improvement through the application of emerging technologies and engineering best practices.
+Technical Specialist Level 2:
+Duties as listed under Technical Specialist Level 1, in addition to:
+Translating customer requirements into technical solutions, based on a strong understanding of the end-user’s operating context.
+Developing team members and fulfilling a guiding, mentoring and advisory role.
+Leading the delivery of day-to-day work, for example, by acting a Scrum Master when required.
+Technical Specialist Level 3:
+Duties as listed under Technical Specialist Levels 1 and 2, in addition to:
+Providing technical leadership for complex bodies of work, including responsibility for delivery in accordance with customer requirements and agreed quality standards.
+Proactively driving continuous improvements to technical strategy and architecture, in collaboration with management and peers across the whole of AFP.
+Essential Requirements
+Technical Specialist Level 1:
+You must be an Australian Citizen at the time of application.
+Negative Vetting 1 (Secret) security clearance, or the ability to obtain one.
+Tertiary qualification or demonstrated experience in related field, such as information technology, data analysis, computer science, software engineering or similar.
+Python development skills with hands-on experience in building either data pipelines, front end or backend systems
+Demonstrated experience with SQL or NoSQL Databases (e.g. PostgreSQL, Cassandra, Neo4J).
+Experience working in a Linux-based development environment.
+Experience using collaboration tools that include git, issue tracking and wikis (e.g. GitLab, GitHub, BitBucket, Azure DevOps).
+Technical Specialist Level 2:
+You must be an Australian Citizen at the time of application.
+Negative Vetting 1 (Secret) security clearance, or the ability to obtain one.
+Skills and experience as listed under Technical Specialist Level 1, in addition to:
+Demonstrated ability to provide technical leadership within a small team and deliver outcomes that meet customer requirements.
+Technical Specialist Level 3:
+You must be an Australian Citizen at the time of application.
+Negative Vetting 1 (Secret) security clearance, or the ability to obtain oneSkills and experience as listed under Technical Specialist Levels 1 and 2, in addition to:
+Experience designing architectures and systems with complex integration requirements.
+Demonstrated ability in providing strategic technical leadership
+Desirable Requirements
+While not essential, your application will stand out if you have experience in:
+Python web frameworks (e.g. Django, FastAPI, Flask)
+Containerisation technologies (e.g. Docker, Kubernetes)
+Message queues/event streaming (e.g. Kafka, Apache Pulsar, RabbitMQ/AMQP)
+Front-end development (e.g. JavaScript - React, Vue, Alpine, HTML5 and CSS3)
+Knowledge and use of CI/CD pipelines
+Working with Agile methodologies (e.g. Kanban, Scrum)
+No candidate would be expected to have experience in all of these areas, but experience in any of these areas will be highly regarded.
+Additional Information
+These positions are AFP Technical Specialist - Bands 1-3.
+Applicants will be required to undergo a technical assessment.
+The selection panel will determine which Technical Specialist level each successful candidate will be placed into.
+Commitment to Diversity & Inclusion
+At the AFP we value the different perspectives, approaches and lived experiences of our people, and recognise that our collective intelligence and diversity is what makes us stronger. As such, we encourage applications from people from all walks of life, including people from culturally and linguistically diverse backgrounds, First Nations people, women, the LGBTQIA+ community and people with disability.
+Contact Officer: Mark,
+Contact Officer Phone:
+02 5126 7152
+, ​
+Contact Officer Email:
+technical.recruitment@afp.gov.au
+Applications Close: 11:59pm (AEST) 25/08/2025",5
+2025-08-20 12:25:11,https://www.seek.com.au/job/86272485?ref=recom-homepage&pos=18&sp=3#sol=36d4ae70faba9fe234117101d9dbc626f20de7fa,The Aquarium,Junior Developers,"Junior Developers Wanted – Federal Government Project | 12-Month Contract
+We’re on the lookout for enthusiastic
+Junior Developers
+to join a large-scale Federal Government project. This is a fantastic chance to gain real-world experience, work on critical systems, and build a long-term career in the public sector.
+You don’t need to know everything – if you have
+1–2 years of development experience
+and some exposure to
+C# or C++
+, we’d love to hear from you.
+What’s in it for you?
+Opportunity to work on a high-impact national project
+On-the-job training in Mainframe and COBOL (no prior experience needed)
+Pathway to obtain or enhance a security clearance
+Supportive team and learning-friendly environment
+The Details
+Location:
+Melbourne (Docklands), Brisbane, or Canberra – Hybrid options available
+Duration:
+12-month contract (with extension potential)
+Citizenship:
+Australian Citizenship required
+(existing Baseline/NV1 a bonus)
+Rate:
+$350–$400/day incl. super (flexible for strong candidates)
+Interested? Shoot through your CV via applying, and we’ll be in touch for a quick chat.",3
+2025-08-20 12:25:18,https://www.seek.com.au/job/86299058?ref=recom-homepage&pos=19&sp=3#sol=9dac1319ced5ffaa6d09ad67d459e2ddbdac8d3c,Megabus Software Pty Ltd,Growth Engineer (Software Portfolio),"The Opportunity
+We're seeking a hands-on Digital Growth Strategist to accelerate lead generation and digital transformation across our portfolio of B2B software companies. Reporting directly to the CEO, you'll have the autonomy to build and execute digital marketing systems from the ground up, working across two established businesses with a third acquisition planned.
+This isn't a role where you'll manage agencies or outsource execution. We need someone who can strategise AND code, someone who gets excited about building marketing automation workflows in the morning and analysing SQL queries in the afternoon. All while working hand in hand with our management team.
+About Our Companies
+We operate two established B2B Software companies in the automotive software sector - one dominating the Australian/NZ market, the other leading in North America. Together, they serve over 8,000+ users across 4,400+ locations globally.
+Both companies are profitable, established market leaders with 30+ years of history, ready for digital acceleration. We're building modern cloud applications that layer on our core platforms, creating opportunities for cross-market innovation and global expansion.
+What You'll Actually Do
+First 120 Days:
+Choose a business segment and completely overhaul its digital acquisition strategy
+Build our first marketing automation workflows from scratch
+Implement tracking and analytics across the entire funnel
+Deploy at least one AI-powered marketing initiative
+Establish, present and affirm go-forward strategy and work pipeline
+Ongoing Responsibilities:
+Write code to connect our platforms (API integrations between websites, CRMs, marketing tools)
+Create automated lead nurturing sequences integrated with Salesloft for our sales teams
+Develop SEO/content strategies and direct our content resources
+Analyse customer data using SQL to identify growth opportunities
+Run continuous experiments across both businesses - nothing is steady state here
+Work with our SDR and Account teams to create seamless handoffs from marketing to sales
+Generate market excitement through intelligent digital orchestration - from geo-targeted campaigns during trade shows and industry events, to SEO dominance and multi-channel lead capture systems that put us wherever our buyers are looking
+We have well-established development teams and access to various skills and systems from a code and code governance perspective
+What Makes You Perfect for This Role
+Technical Skills (Non-Negotiable):
+Can write production-ready code (JavaScript, Python, or similar)
+Comfortable with APIs and building integrations
+SQL proficiency for data analysis
+Experience with marketing automation platforms (HubSpot, Marketo, or similar)
+HTML/CSS/JavaScript for landing page optimisation
+Google Tag Manager and analytics implementation
+Experience with AI tools and APIs (OpenAI, Claude CLI, etc.)
+Marketing Expertise:
+Proven track record of building lead generation systems from zero
+Experience with B2B SaaS or software marketing
+Understanding of SEO, SEM, and content marketing
+Ability to map and optimise customer journeys
+Data-driven approach to marketing decisions
+The X-Factor:
+Growth hacker mentality - you see opportunities where others see obstacles
+Comfortable with ambiguity and rapid experimentation
+Self-directed learner who stays current with digital trends and AI advancements
+Can translate technical capabilities into business outcomes
+Excited by the challenge of working across multiple businesses
+Forward-thinking about AI's role in marketing - from content generation to predictive analytics
+What We Offer
+Competitive Salary based on experience and track record, achievement bonus available
+True Flexibility: Work remotely or from our Melbourne office (in Brighton)
+Direct Impact: Report directly to the CEO with full autonomy over digital strategy
+Growth Opportunity: Shape the digital future of multiple businesses, with potential to lead a team
+Resources: Access to design service, junior content resource, and budget for tools/platforms
+What We DON'T Want:
+Someone who will recommend strategies they can't personally implement
+Agency managers who outsource the actual work
+Traditional marketers uncomfortable with code
+People who need constant direction or existing playbooks
+Ready to Apply?
+We're moving fast on this hire. If you're reading this and thinking ""finally, a role where I can build things properly from scratch"" - we want to hear from you.
+Send your resume and a brief note explaining:
+A marketing system you've built from scratch (include technical details)
+Your experience working with multiple businesses or brands
+A growth hack or automation you're particularly proud of
+How you've used or would use AI to solve marketing challenges
+We value capability over credentials. Whether you're 19 or 90, if you can deliver results through hands-on execution, we want to talk.
+About the Hiring Process:
+Initial conversation with our CEO
+Technical assessment (bring something to the table to show us)
+Paid trial project on one of our businesses
+Reference checks and offer
+Our companies are part of Constellation Software's portfolio, providing stability and resources while maintaining entrepreneurial freedom. We're building the future of automotive software - come build it with us.",7
+2025-08-20 12:25:24,https://www.seek.com.au/job/86352029?ref=recom-homepage&pos=20&sp=3#sol=8852fdcc7f3557a8f2028e03cc93aa0a697fa2a4,Green IT Talent Pty Ltd,JavaScript Developer,"Initial 8+ week contract
+Onsite Melbourne CBD
+JavaScript Developer with solid Retool knowledge
+Market Rates
+Our not-for-profit client is seeking the services of an experienced JavaScript Developer to assist in the design and delivery of a user-friendly interface using Retool.
+Demonstrated front end development experience is required in the following areas.
+Front End Interface Development
+Collaboration and Design Translation
+Content Management
+Usability Testing
+Secure Hosting Environments
+Documentation of Procedures
+Solid working knowledge of Retool scripting and JavaScript are required in the following areas.
+Excellent JavaScript programming language skills
+Client-Side scripting (user experience layout, design, text, image and interface)
+Configure custom JavaScript and libraries in apps
+Manipulate and transform data
+Utilising transformers for multi-line scripts
+Perform create, delete and update tasks in Relational Databases (SQL, MySQL, Oracle)
+GraphQL open-source data language for APIs
+Please provide a copy of your resume via the link provided.",5
+2025-08-20 12:25:31,https://www.seek.com.au/job/86414622?ref=recom-homepage&pos=21&sp=3#sol=5c2707e7cec9e708710977e662fe11ebbb475f5b,DefendTex Pty Ltd,Graduate Software Engineer,"Graduate Software Engineer – Robotics, Autonomous Systems & Innovative Technology
+As back-to-back winners of the 2023 & 2024 Defence Innovator of the Year, we live and breathe our values of integrity, innovation, professionalism, and passion.
+Our vision is clear: to be a world leader in defence innovation, developing and delivering cutting-edge technologies for military and law enforcement communities across the globe.
+From day one, you’ll be hands-on with real robotics, drones, and autonomous systems - taking your work from initial concept through to working prototypes and production-ready systems. This role is all about coding, control systems, and intelligent software development!
+What You’ll Get to Do
+Get hands on designing and developing software for robotics, drones, autonomous systems, and advanced electronics.
+Collaborate with talented engineers from every discipline.
+Develop, test, and refine solutions for complex, one-of-a-kind challenges.
+Integrate and test software on real hardware platforms.
+Solve complex problems with creativity, rapid prototyping, and iteration.
+Partner with research organisations and institutions on groundbreaking projects.
+Why Join Our Team?
+Competitive remuneration and benefits.
+Work on exciting, industry-leading innovations that make a real-world impact.
+Learn from senior engineers and industry experts while getting your hands dirty.
+A dynamic, collaborative environment where your ideas are valued.
+Opportunities to work with external research partners pushing the limits of technology.
+A workplace committed to diversity, inclusion, mental health, and wellbeing.
+Access to the latest tools, prototypes, and tech.
+We welcome applicants from all backgrounds, including Veterans and Aboriginal and Torres Strait Islander peoples
+What We’re Looking For
+Degree qualification in Mechatronics, Software Engineering, Computer Science, Electronics Engineering, or similar.
+Coding skills
+Passion for robotics, drones, or autonomous systems.
+Curiosity, creativity, and a problem-solving mindset.
+Full-time onsite availability.
+Eligibility for Baseline Security Clearance (Australian Citizenship required).
+If you’re looking for a graduate role where you get to work hands-on in a team that values skill, creativity, and impact — this is the place to do it.
+Apply Now and help us design the future of defence technology.",8

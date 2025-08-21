@@ -13,3 +13,5 @@ token.json
 .DS_Store
 General Notes.rtf
 jobs.csv
+jobs_test
+jobs_train

@@ -95,7 +95,7 @@ def find_jobs():
         print(link)
 
     i = 0
-    while i < 2:
+    while i < 20:
         print(str(i) + "\n")
         job_link = recommended_jobs[i]
         print(job_link)
@@ -138,14 +138,6 @@ def find_jobs():
             print("Company Name:", company_name)
         else:
             print("Company name not found.")
-
-
-        # Output details
-        # print("\n Job description: " + job_description)
-
-        # print("\n Job title: " + job_title)
-
-        # print("\n Company Name: " + company_name)
 
         # Save each job to CSV
         save_job(job_link, company_name, job_title, job_description)
@@ -191,7 +183,4 @@ def save_job(job_link, company_name, job_title, job_description, filename="jobs.
 
     with open(filename, "a", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
-        if not file_exists:
-            writer.writerow("Timestamp", "Job Link", "Company Name", "Job Title", "Job Description")
-
         writer.writerow([datetime.now().strftime("%Y-%m-%d %H:%M:%S"), job_link, company_name, job_title, job_description])
